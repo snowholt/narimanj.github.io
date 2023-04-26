@@ -9,8 +9,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/narimanjafari/">View My LinkedIn Profile</a> 
   <br>
-remote_theme: pages-themes/minimal@v0.2.0
-<br>
+  <br>
+  <br>
+  <br>
+
 plugins: 
 - jekyll-remote-theme
 <br>
