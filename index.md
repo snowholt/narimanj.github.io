@@ -2,28 +2,23 @@
 
 ---
 
-### Category Name 1 
+### My Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Insights into User Preferences of Fitbit Features](https://www.kaggle.com/code/snowholt/insights-into-user-preferences-of-fitbit-features)
+<img src="images/cover_project1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Covid Pandemic Analysis Using SQL]()
+<img src="images/cover_project2.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Projects Listed
+
+
+- [Insights into User Preferences of Fitbit Features](https://www.kaggle.com/code/snowholt/insights-into-user-preferences-of-fitbit-features)
+- [Covid Pandemic Analysis Using SQL]()
 
 ---
 
