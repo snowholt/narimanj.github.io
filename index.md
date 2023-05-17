@@ -16,7 +16,8 @@ This project aimed to analyze text data from YouTube comments using Python. The 
 [Insights into User Preferences of Fitbit Features](https://www.kaggle.com/code/snowholt/insights-into-user-preferences-of-fitbit-features)
 <img src="images/cover_project1.jpg?raw=true"/>
 <br>
-In this project, I analyzed smart device fitness data to gain insights into how consumers use their smart devices. The goal was to help guide Bellabeat's marketing strategy and unlock new growth opportunities for the company. Through the data analysis process, I identified key patterns and trends in the data and used these insights to make high-level recommendations for Bellabeat's marketing strategy. This project demonstrates my skills in data analysis and provides tangible evidence of my ability to deliver actionable insights to drive business growth.
+This project uses Python to examine text data from comments on YouTube and the specifications of the videos. The process involved collecting data from YouTube, cleaning and preprocessing it, and conducting sentiment and emoji analysis. The analysis yielded insights into frequently used words and emojis in user comments. Additionally, the project examined YouTube video details to identify trends and correlations between specific parameters such as likes, comments, views, video category, and the impact of punctuation on views. The findings indicated that the Music category receives the most likes, and positive words like "best" and "awesome" are common in user comments. The project concludes by highlighting limitations and areas for further investigation. 
+I would like to thank Azadeh Irani for being an amazing colleague with whom I worked on the joint project.
 <br>
 ---
 <br>
