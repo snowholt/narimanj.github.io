@@ -3,7 +3,15 @@
 
 ---
 
-### My Projects 
+### My Projects
+
+[Text Data Analysis By Python (Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-nariman-jafarieshlaghi)
+<img src="images/Headline_youtubecasestudy.png?raw=true"/>
+<br>
+This project aimed to analyze text data from YouTube comments using Python. The project involved collecting data from YouTube, cleaning and preprocessing the data, and performing sentiment and emoji analysis. Also, the study provided insights into the most commonly used words and emojis in user comments. The project also involved analyzing YouTube video details information to find trends or correlations between specific parameters, such as likes, comments, views, and punctuation impact on views. The findings suggest that the Music category has the most likes, and negative words such as "worst" and "terrible" are commonly used in user comments. The project concludes by highlighting limitations and areas for further investigation.
+<br>
+---
+<br>
 
 [Insights into User Preferences of Fitbit Features](https://www.kaggle.com/code/snowholt/insights-into-user-preferences-of-fitbit-features)
 <img src="images/cover_project1.jpg?raw=true"/>
