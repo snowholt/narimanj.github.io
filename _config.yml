@@ -2,11 +2,13 @@ title: Azadeh Irani # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  Greetings, I am a data analyst passionate about using data to solve problems and improve businesses. I have experience in data visualization, data mining, and statistical analysis. Also proficient in SQL, Python, Tableau, and Excel. I am highly motivated and results-oriented, always looking for new challenges and opportunities to learn and grow. If you are looking for a data analyst who is passionate about their work and has a proven track record of success, Feel free to contact me.
+  I am a data analyst passionate about using data to solve problems and improve businesses. I have experience in data visualization, data mining, and statistical analysis. Also proficient in SQL, Python, Tableau, and Excel. I am highly motivated and results-oriented, always looking for new challenges and opportunities to learn and grow. If you are looking for a data analyst who is passionate about their work and has a proven track record of success, Feel free to contact me.
   
   <br><br>
   <a href="https://www.linkedin.com/in/azadeh-irani-er/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://github.com/azadeh-irani">View My Github Profile</a>
+  <br>
   <a href="https://public.tableau.com/app/profile/azadeh.irani">View My Tableau Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
