@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Text Data Analysis By Python](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Text Data Analysis By Python(Youtube Case Study)](/sample_page)
+<img src="images/youtube.jpg?raw=true"/>
 
 ---
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
