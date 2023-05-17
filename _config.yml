@@ -8,10 +8,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://github.com/snowholt">View My GitHub Profile</a> 
   <br>
+  <a href="https://public.tableau.com/app/profile/nariman.jafarieshlaghi">View My Tableau Vizzes</a> 
   <br>
   <a href="https://www.linkedin.com/in/narimanjafari/">View My LinkedIn Profile</a> 
   <br>
   <br>
+  
   <br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
