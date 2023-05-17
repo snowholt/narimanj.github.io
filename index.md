@@ -34,6 +34,7 @@ The COVID-19 pandemic, caused by the novel coronavirus, has had a massive impact
 ### Projects Listed
 
 
+- [Text Data Analysis By Python (Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-nariman-jafarieshlaghi)
 - [Insights into User Preferences of Fitbit Features](https://www.kaggle.com/code/snowholt/insights-into-user-preferences-of-fitbit-features)
 - [Covid Pandemic Analysis Using SQL](https://www.linkedin.com/pulse/covid-pandemic-analysis-using-sql-nariman-jafarieshlaghi/)
 
