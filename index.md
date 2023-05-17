@@ -8,7 +8,8 @@
 [Text Data Analysis By Python (Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-nariman-jafarieshlaghi)
 <img src="images/Headline_youtubecasestudy.png?raw=true"/>
 <br>
-This project aimed to analyze text data from YouTube comments using Python. The project involved collecting data from YouTube, cleaning and preprocessing the data, and performing sentiment and emoji analysis. Also, the study provided insights into the most commonly used words and emojis in user comments. The project also involved analyzing YouTube video details information to find trends or correlations between specific parameters, such as likes, comments, views, and punctuation impact on views. The findings suggest that the Music category has the most likes, and negative words such as "worst" and "terrible" are commonly used in user comments. The project concludes by highlighting limitations and areas for further investigation.
+This project uses Python to examine text data from comments on YouTube and the specifications of the videos. The process involved collecting data from YouTube, cleaning and preprocessing it, and conducting sentiment and emoji analysis. The analysis yielded insights into frequently used words and emojis in user comments. Additionally, the project examined YouTube video details to identify trends and correlations between specific parameters such as likes, comments, views, video category, and the impact of punctuation on views. The findings indicated that the Music category receives the most likes, and positive words like "best" and "awesome" are common in user comments. The project concludes by highlighting limitations and areas for further investigation. 
+I would like to thank Azadeh Irani for being an amazing colleague with whom I worked on the joint project.
 <br>
 ---
 <br>
