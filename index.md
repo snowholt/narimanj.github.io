@@ -5,6 +5,7 @@
 
 ### My Projects
 
+<hr>
 [Text Data Analysis By Python (Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-nariman-jafarieshlaghi)
 <img src="images/Headline_youtubecasestudy.png?raw=true"/>
 <br>
